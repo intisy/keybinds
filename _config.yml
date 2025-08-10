@@ -25,12 +25,12 @@ defaults:
 #
 # Or to use the main navigation, simply omit the sidebar front matter.
 # See: https://mmistakes.github.io/minimal-mistakes/docs/navigation/
-docs_nav:
+docs:
   - title: "GNOME"
-    url: /docs/gnome/
+    url: /gnome/
   - title: "IntelliJ"
-    url: /docs/intellij/
+    url: /intellij/
   - title: "Nautilus"
-    url: /docs/nautilus/
+    url: /nautilus/
   - title: "Vim"
-    url: /docs/vim/
+    url: /vim/
