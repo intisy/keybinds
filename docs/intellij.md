@@ -1,11 +1,11 @@
-Navigating IntelliJ IDEA Using Only Your Keyboard
+#### **Navigating IntelliJ IDEA Using Only Your Keyboard**
 
-The Most Important Shortcut:
+#### **The Most Important Shortcut:**
 
  
 *   Find Action (Ctrl+Shift+A or Shift+Cmd+A on macOS): Search for any command, setting, or action.
 
-Navigating Files and Projects:
+#### **Navigating Files and Projects:**
 
  
 *   Open Class (Ctrl+N or Cmd+O on macOS): Quickly open any class.
@@ -19,7 +19,7 @@ Navigating Files and Projects:
 *   Go to Line/Column (Ctrl+G): Jump to a specific line and column.
 *   File Structure (Ctrl+F12 or Cmd+F12 on macOS): Show and navigate the structure of the current file.
 
-Navigating Within Files:
+#### **Navigating Within Files:**
 
  
 *   Move Caret: Arrow keys, Ctrl+Arrow keys (by words), Home/End (line beginning/end).
@@ -28,7 +28,7 @@ Navigating Within Files:
 *   Move Caret Between Matching Braces (Ctrl+Shift+M): Jump between opening/closing braces.
 *   Next/Previous Highlighted Error (F2 / Shift+F2): Jump between errors or warnings.
 
-Searching and Finding Usages:
+#### **Searching and Finding Usages:**
 
  
 *   Find (Ctrl+F or Cmd+F): Search text in the current file.
@@ -41,7 +41,7 @@ Searching and Finding Usages:
 *   Go to Declaration or Usages (Ctrl+B or Cmd+B on macOS): Go to declaration or show usages.
 *   Go to Implementation(s) (Ctrl+Alt+B or Cmd+Alt+B on macOS): Navigate to interface/method implementations.
 
-Tool Windows and Editor Management:
+#### **Tool Windows and Editor Management:**
 
  
 *   Hide All Tool Windows (Ctrl+Shift+F12 or Cmd+Shift+F12 on macOS): Maximize editor space.
@@ -49,13 +49,13 @@ Tool Windows and Editor Management:
 *   Resize Tool Windows (Ctrl+Alt+Shift + Arrow Keys): Adjust tool window size.
 *   Close Active Tab (Ctrl+F4 or Cmd+W): Close the current editor tab.
 
-Customization:
+#### **Customization:**
 
  
 *   Settings/Preferences (Ctrl+Alt+S or Cmd+, on macOS): Access IntelliJ IDEA settings.
 *   Keymap Configuration: View, modify, or assign shortcuts in Settings > Keymap.
 
-Learning Shortcuts:
+#### **Learning Shortcuts:**
 
  
 *   Find Action (Ctrl+Shift+A or Shift+Cmd+A): Shows the shortcut for the searched action.
