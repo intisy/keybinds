@@ -1,13 +1,3 @@
----
-title: Nautilus Keybindings
-layout: single
-permalink: /nautilus/
-excerpt: "A list of keybindings for navigating the Nautilus file manager using only your keyboard."
-toc: true
-toc_label: "Nautilus Keybindings"
-toc_icon: "keyboard"
----
-
 ### Navigating Nautilus Using Only Your Keyboard
 
 #### **The Most Important Shortcuts:**

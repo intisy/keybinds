@@ -1,16 +1,3 @@
----
-title: GNOME Keybindings
-layout: single
-permalink: /gnome/
-header:
-  overlay_image: /assets/images/gnome.jpg
-  caption: "GNOME Keybindings"
-excerpt: "A list of keybindings for navigating the GNOME desktop using only your keyboard."
-toc: true
-toc_label: "GNOME Keybindings"
-toc_icon: "keyboard"
----
-
 ### Navigating the GNOME Desktop Using Only Your Keyboard
 
 #### **The Most Important Shortcuts:**

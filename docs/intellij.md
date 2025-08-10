@@ -1,13 +1,3 @@
----
-title: IntelliJ Keybindings
-layout: single
-permalink: /intellij/
-excerpt: "A list of keybindings for navigating IntelliJ IDEA using only your keyboard."
-toc: true
-toc_label: "IntelliJ Keybindings"
-toc_icon: "keyboard"
----
-
 Navigating IntelliJ IDEA Using Only Your Keyboard
 
 The Most Important Shortcut:
