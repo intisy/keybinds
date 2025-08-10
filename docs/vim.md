@@ -1,3 +1,13 @@
+---
+title: Vim Keybindings
+layout: single
+permalink: /vim/
+excerpt: "A comprehensive reference for Vim's keyboard commands, based on its philosophy of modal editing."
+toc: true
+toc_label: "Vim Keybindings"
+toc_icon: "keyboard"
+---
+
 ## The Ultimate Vim Keyboard Reference
 
 Vim's philosophy is based on **modal editing** and **composable commands**. This means you combine operators with motions to perform complex tasks efficiently. Mastering this concept is the key to unlocking Vim's power.

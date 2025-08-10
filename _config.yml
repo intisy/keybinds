@@ -1,21 +1,36 @@
+# Site Settings
 title: Keybindings Documentation
-theme: just-the-docs
-url: "https://yourusername.github.io/keybinds"
+repository: intisy/keybinds
+url: "https://intisy.github.io/keybinds"
 baseurl: "/keybinds"
-repository: yourusername/keybinds
 
-search_enabled: true
-search:
-  heading_level: 2
-  previews: 3
-  max_results: 25
+# Build settings
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
-last_edit_date_format: "%A, %B %e %Y at %l:%M %p"
+# Defaults for pages
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      sidebar:
+        nav: "docs"
 
-footer_content: "Documentation built with <a href=\"https://pmarsceill.github.io/just-the-docs/\" target=\"_blank\">Just the Docs</a>"
-
-color_scheme: light
-
-aux_links:
-  "GitHub Repo":
-    - "https://github.com/yourusername/keybinds"
+# Sidebar navigation
+# To use this navigation, add the following to your page's front matter:
+# sidebar:
+#   nav: "docs"
+#
+# Or to use the main navigation, simply omit the sidebar front matter.
+# See: https://mmistakes.github.io/minimal-mistakes/docs/navigation/
+docs_nav:
+  - title: "GNOME"
+    url: /docs/gnome/
+  - title: "IntelliJ"
+    url: /docs/intellij/
+  - title: "Nautilus"
+    url: /docs/nautilus/
+  - title: "Vim"
+    url: /docs/vim/
