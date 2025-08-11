@@ -46,7 +46,19 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - GNOME: gnome.md
-  - IntelliJ: intellij.md
-  - Nautilus: nautilus.md
-  - Vim: vim.md
+  - Operating Systems:
+      - Windows: windows.md
+      - macOS: macos.md
+  - Linux:
+      - Desktop Environments:
+          - GNOME: gnome.md
+          - KDE Plasma: kde.md
+          - XFCE: xfce.md
+      - File Managers:
+          - Nautilus: nautilus.md
+  - Development Tools:
+      - VS Code: vscode.md
+      - IntelliJ: intellij.md
+      - Vim: vim.md
+      - Git: git.md
+      - Docker: docker.md
