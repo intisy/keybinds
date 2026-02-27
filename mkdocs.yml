@@ -47,18 +47,55 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Operating Systems:
-      - Windows: windows.md
-      - macOS: macos.md
+      - Windows:
+          - Shortcuts: windows.md
+          - Window Managers:
+              - GlazeWM: glazewm.md
+      - macOS:
+          - Shortcuts: macos.md
+          - Window Managers:
+              - Rectangle: rectangle.md
+              - yabai: yabai.md
       - Linux:
           - Desktop Environments:
-            - GNOME: gnome.md
-            - KDE Plasma: kde.md
-            - XFCE: xfce.md
+              - GNOME: gnome.md
+              - KDE Plasma: kde.md
+              - XFCE: xfce.md
+          - Window Managers:
+              - i3: i3.md
+              - Sway: sway.md
+              - Hyprland: hyprland.md
           - File Managers:
               - Nautilus: nautilus.md
-  - Development Tools:
-      - VS Code: vscode.md
-      - IntelliJ: intellij.md
-      - Vim: vim.md
-      - Git: git.md
-      - Docker: docker.md
+              - Dolphin: dolphin.md
+              - Thunar: thunar.md
+  - Editors:
+      - Terminal:
+          - Vim: vim.md
+          - Neovim: nvim.md
+          - Emacs: emacs.md
+          - Helix: helix.md
+      - GUI:
+          - VS Code: vscode.md
+          - IntelliJ: intellij.md
+          - Sublime Text: sublime.md
+          - Zed: zed.md
+  - Terminal:
+      - Shells:
+          - Bash / Readline: bash.md
+          - PowerShell: powershell.md
+      - Multiplexers:
+          - tmux: tmux.md
+      - File Managers:
+          - ranger: ranger.md
+      - CLI Tools:
+          - Git: git.md
+          - Docker: docker.md
+  - Applications:
+      - Browsers:
+          - Chrome: chrome.md
+          - Firefox: firefox.md
+      - Productivity:
+          - Obsidian: obsidian.md
+      - Creative:
+          - Blender: blender.md
